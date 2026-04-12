@@ -49,3 +49,7 @@ pub fn history_commit_81_0() -> &'static str {
 pub fn history_commit_89_0() -> &'static str {
 	"history_commit_89"
 }
+
+pub fn history_commit_97_0() -> &'static str {
+	"history_commit_97"
+}
