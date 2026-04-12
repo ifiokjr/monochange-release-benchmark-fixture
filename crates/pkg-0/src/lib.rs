@@ -117,3 +117,7 @@ pub fn history_commit_217_0() -> &'static str {
 pub fn release_pr_1_commit_1_0() -> &'static str {
 	"release_pr_1_commit_1"
 }
+
+pub fn release_pr_1_commit_2_0() -> &'static str {
+	"release_pr_1_commit_2"
+}
