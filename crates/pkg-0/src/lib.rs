@@ -5,3 +5,7 @@ pub fn package_0_version() -> &'static str {
 pub fn history_commit_1_0() -> &'static str {
 	"history_commit_1"
 }
+
+pub fn history_commit_9_0() -> &'static str {
+	"history_commit_9"
+}
