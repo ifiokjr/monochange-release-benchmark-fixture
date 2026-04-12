@@ -1,0 +1,12 @@
+[workspace]
+members = [
+  "crates/pkg-0",
+  "crates/pkg-1",
+  "crates/pkg-2",
+  "crates/pkg-3",
+  "crates/pkg-4",
+  "crates/pkg-5",
+  "crates/pkg-6",
+  "crates/pkg-7",
+]
+resolver = "2"

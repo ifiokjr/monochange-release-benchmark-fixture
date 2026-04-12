@@ -1,0 +1,34 @@
+[defaults]
+package_type = "cargo"
+
+[source]
+provider = "github"
+owner = "ifiokjr"
+repo = "monochange-release-benchmark-fixture"
+
+[package.pkg-0]
+path = "crates/pkg-0"
+
+[package.pkg-1]
+path = "crates/pkg-1"
+
+[package.pkg-2]
+path = "crates/pkg-2"
+
+[package.pkg-3]
+path = "crates/pkg-3"
+
+[package.pkg-4]
+path = "crates/pkg-4"
+
+[package.pkg-5]
+path = "crates/pkg-5"
+
+[package.pkg-6]
+path = "crates/pkg-6"
+
+[package.pkg-7]
+path = "crates/pkg-7"
+
+[ecosystems.cargo]
+enabled = true
