@@ -1,3 +1,7 @@
 pub fn package_1_version() -> &'static str {
 	"1.0.0"
 }
+
+pub fn history_commit_2_1() -> &'static str {
+	"history_commit_2"
+}
